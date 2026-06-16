@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Lê Tuấn Minh",
+  "description": "Trang portfolio giới thiệu bản thân, học vấn, dự án và hoạt động ngoại khóa của học sinh Lê Tuấn Minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
